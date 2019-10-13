@@ -1,0 +1,192 @@
+
+[
+    {
+      "VEHICLE_CODE": 38163013,
+      "VEHICLE_TYPE_CODE": 23,
+      "VEHICLE_TYPE": "Goods Carrying - Public Carrier",
+      "VEHICLE_MODEL": "1610",
+      "VEHICLE_SUBTYPE": "HALF DECK LOAD BODY",
+      "CC": 16200,
+      "VEHICLE_MAKE": "TATA"
+    },
+    {
+     "VEHICLE_CODE": 38163013,
+     "VEHICLE_TYPE_CODE": 23,
+     "VEHICLE_TYPE": "Goods Carrying - Public Carrier",
+     "VEHICLE_MODEL": "1610",
+     "VEHICLE_SUBTYPE": "Full DECK LOAD BODY",
+     "CC": 16200,
+     "VEHICLE_MAKE": "TATA"
+   },
+    {
+      "VEHICLE_CODE": 38158299,
+      "VEHICLE_TYPE_CODE": 23,
+      "VEHICLE_TYPE": "Goods Carrying - Public Carrier",
+      "VEHICLE_MODEL": "LPT 4411",
+      "VEHICLE_SUBTYPE": "STD",
+      "CC": 44000,
+      "VEHICLE_MAKE": "TATA"
+    },
+    {
+      "VEHICLE_CODE": 38163389,
+      "VEHICLE_TYPE_CODE": 23,
+      "VEHICLE_TYPE": "Goods Carrying - Public Carrier",
+      "VEHICLE_MODEL": "207 DI CREW CAB",
+      "VEHICLE_SUBTYPE": "DELIVERY VAN",
+      "CC": 2820,
+      "VEHICLE_MAKE": "TATA"
+    },
+    {
+      "VEHICLE_CODE": 38173621,
+      "VEHICLE_TYPE_CODE": 23,
+      "VEHICLE_TYPE": "Goods Carrying - Public Carrier",
+      "VEHICLE_MODEL": "LP 909",
+      "VEHICLE_SUBTYPE": "HALF DECK LOAD BODY",
+      "CC": 9600,
+      "VEHICLE_MAKE": "TATA"
+    },
+    {
+      "VEHICLE_CODE": 38181624,
+      "VEHICLE_TYPE_CODE": 23,
+      "VEHICLE_TYPE": "Goods Carrying - Public Carrier",
+      "VEHICLE_MODEL": "LPT 1613",
+      "VEHICLE_SUBTYPE": "LOW DECK LOAD BODY (GVW - 21200)",
+      "CC": 21200,
+      "VEHICLE_MAKE": "TATA"
+    },
+    {
+     "VEHICLE_CODE": 38181623,
+     "VEHICLE_TYPE_CODE": 23,
+     "VEHICLE_TYPE": "Goods Carrying - Public Carrier",
+     "VEHICLE_MODEL": "LPT 1613",
+     "VEHICLE_SUBTYPE": "HIGH DECK LOAD BODY (GVW - 21200)",
+     "CC": 21200,
+     "VEHICLE_MAKE": "TATA"
+   },
+    {
+      "VEHICLE_CODE": 38167458,
+      "VEHICLE_TYPE_CODE": 25,
+      "VEHICLE_TYPE": "Goods Carrying - 3 Wheel - Public Carrier",
+      "VEHICLE_MODEL": "APE CARGO CNG XTRA LD",
+      "VEHICLE_SUBTYPE": "PICK UP",
+      "CC": 436,
+      "VEHICLE_MAKE": "PIAGGIO"
+    },
+    {
+      "VEHICLE_CODE": 38162564,
+      "VEHICLE_TYPE_CODE": 27,
+      "VEHICLE_TYPE": "Passenger Carrying - 4 Wheel & Carrying Capacity <= 6",
+      "VEHICLE_MODEL": "SWIFT DZIRE",
+      "VEHICLE_SUBTYPE": "LXI",
+      "CC": 1298,
+      "VEHICLE_MAKE": "MARUTI"
+    },
+    {
+     "VEHICLE_CODE": 381625600,
+     "VEHICLE_TYPE_CODE": 27,
+     "VEHICLE_TYPE": "Passenger Carrying - 4 Wheel & Carrying Capacity <= 6",
+     "VEHICLE_MODEL": "SWIFT DZIRE",
+     "VEHICLE_SUBTYPE": "TOUR",
+     "CC": 1298,
+     "VEHICLE_MAKE": "MARUTI"
+   },
+    {
+      "VEHICLE_CODE": 38174490,
+      "VEHICLE_TYPE_CODE": 27,
+      "VEHICLE_TYPE": "Passenger Carrying - 4 Wheel & Carrying Capacity <= 6",
+      "VEHICLE_MODEL": "EON",
+      "VEHICLE_SUBTYPE": "1.0 KAPPA 5 SPEED MANUAL MAGNA PLUS (4+1)",
+      "CC": 998,
+      "VEHICLE_MAKE": "HYUNDAI"
+    },
+    {
+      "VEHICLE_CODE": 38165282,
+      "VEHICLE_TYPE_CODE": 27,
+      "VEHICLE_TYPE": "Passenger Carrying - 4 Wheel & Carrying Capacity <= 6",
+      "VEHICLE_MODEL": "OPTRA MAGNUM",
+      "VEHICLE_SUBTYPE": "1.6 LT",
+      "CC": 1598,
+      "VEHICLE_MAKE": "CHEVROLET"
+    },
+    {
+     "VEHICLE_CODE": 38165281,
+     "VEHICLE_TYPE_CODE": 27,
+     "VEHICLE_TYPE": "Passenger Carrying - 4 Wheel & Carrying Capacity <= 6",
+     "VEHICLE_MODEL": "OPTRA MAGNUM",
+     "VEHICLE_SUBTYPE": "LTI",
+     "CC": 1598,
+     "VEHICLE_MAKE": "CHEVROLET"
+   },
+    {
+      "VEHICLE_CODE": 38173244,
+      "VEHICLE_TYPE_CODE": 28,
+      "VEHICLE_TYPE": "Passenger Carrying - 3 Wheel & Carrying Capacity <= 6",
+      "VEHICLE_MODEL": "RE COMPACT",
+      "VEHICLE_SUBTYPE": "CNG 2 STROKE AUTO RIKSHAW",
+      "CC": 145,
+      "VEHICLE_MAKE": "BAJAJ"
+    },
+    {
+      "VEHICLE_CODE": 38159679,
+      "VEHICLE_TYPE_CODE": 30,
+      "VEHICLE_TYPE": "Passenger Carrying - 3 Wh & Carrying Capacity Bet 7&17",
+      "VEHICLE_MODEL": "MINIDOR",
+      "VEHICLE_SUBTYPE": "AUTO RICKHAW BS II",
+      "CC": 499,
+      "VEHICLE_MAKE": "FORCE MOTORS"
+    },
+    {
+     "VEHICLE_CODE": 38159678,
+     "VEHICLE_TYPE_CODE": 30,
+     "VEHICLE_TYPE": "Passenger Carrying - 3 Wh & Carrying Capacity Bet 7&17",
+     "VEHICLE_MODEL": "MINIDOR",
+     "VEHICLE_SUBTYPE": "AUTO RICKHAW",
+     "CC": 499,
+     "VEHICLE_MAKE": "FORCE MOTORS"
+   },
+    {
+      "VEHICLE_CODE": 38178831,
+      "VEHICLE_TYPE_CODE": 31,
+      "VEHICLE_TYPE": "Passenger Carrying - 2 Wheeler",
+      "VEHICLE_MODEL": "AVENGER",
+      "VEHICLE_SUBTYPE": "220 CRUISE",
+      "CC": 220,
+      "VEHICLE_MAKE": "BAJAJ AUTO"
+    },
+    {
+      "VEHICLE_CODE": 38175821,
+      "VEHICLE_TYPE_CODE": 31,
+      "VEHICLE_TYPE": "Passenger Carrying - 2 Wheeler",
+      "VEHICLE_MODEL": "ACTIVA",
+      "VEHICLE_SUBTYPE": "3G 110CC",
+      "CC": 110,
+      "VEHICLE_MAKE": "HONDA"
+    },
+    {
+      "VEHICLE_CODE": 38169246,
+      "VEHICLE_TYPE_CODE": 36,
+      "VEHICLE_TYPE": "Tractor Goods Carrying - Public Carrier",
+      "VEHICLE_MODEL": "245 DI",
+      "VEHICLE_SUBTYPE": "27 HP TRACTOR",
+      "CC": 0,
+      "VEHICLE_MAKE": "MAHINDRA AND MAHINDRA"
+    },
+    {
+     "VEHICLE_CODE": 38169249,
+     "VEHICLE_TYPE_CODE": 36,
+     "VEHICLE_TYPE": "Tractor Goods Carrying - Public Carrier",
+     "VEHICLE_MODEL": "245 DI",
+     "VEHICLE_SUBTYPE": "TRACTOR",
+     "CC": 0,
+     "VEHICLE_MAKE": "MAHINDRA AND MAHINDRA"
+   },
+    {
+      "VEHICLE_CODE": 38181654,
+      "VEHICLE_TYPE_CODE": 39,
+      "VEHICLE_TYPE": "E Cart - Goods Carrying - 3 Wheel - Public Carrier",
+      "VEHICLE_MODEL": "CHEETAH",
+      "VEHICLE_SUBTYPE": "E CART",
+      "CC": 748,
+      "VEHICLE_MAKE": "SAERA ELECTRIC AUTO"
+    }
+   ]
